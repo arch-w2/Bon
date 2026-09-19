@@ -3,7 +3,7 @@
 -- La GUI no se cierra hasta validar una key correcta.
 -- La key se guarda en pollos_dev_key.txt para no reescribirla.
 -- ==========================================
-local KEY_URL = "https://keydash-robux-magic.lovable.app/api/public/validate-key"
+local KEY_URL = "https://pollosdev.lovable.app/api/public/validate-key"
 local KEY_FILE = "pollos_dev_key.txt"
 
 local Players = game:GetService("Players")
